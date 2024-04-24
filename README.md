@@ -5,6 +5,7 @@
 * Kit de desarrollo de Java (JDK): OpenJDK 21
 * Versión de Java: 21.0.2
 * Framework de pruebas: JUnit 5
+* Github : https://github.com/Juanin92/WalletDigiatlJava
 
 ## Descripción del proyecto
 
